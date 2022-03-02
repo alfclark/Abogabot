@@ -1,7 +1,7 @@
 
 ## EX1 - LaunchX Front-end web development
 
-This project was made following the documents from LaunchX program. [Github Pages](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/01%20-%20INTRO/practicas)
+This project was made following the documents from LaunchX program. [LaunchX Link](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/01%20-%20INTRO/practicas)
 
 ---
 ### Understanding the background for developing a web dev project.
