@@ -1,12 +1,13 @@
 
-## EX1 - LaunchX Front-end web development
+# EX1 - LaunchX Front-end web development
 
 This project was made following the documents from LaunchX program. [Document Link](https://github.com/LaunchX-InnovaccionVirtual/FrontEnd-Mision/tree/main/01%20-%20INTRO/practicas)
 
----
 ### Understanding the background for developing a web dev project.
 
-#### Project overview:
+---
+
+### Project overview:
 The client is a Law Firm with the intention to deploy a website with a web application to automate queries for its clients. This is intended to be done by filling an online form.
 
 Deliverables:
@@ -19,7 +20,7 @@ Deliverables:
 
 ---
 
-#### Requirements:
+### Requirements:
 CLIENT
 - Fully responsive website.
 - The client has a preference for Navy Blue and White.
